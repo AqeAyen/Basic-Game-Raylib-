@@ -9,7 +9,6 @@ int main(int argc, char **argv) {
   const int SCREEN_WIDTH = 640;
   const int SCREEN_HEIGHT = 400;
   InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, "Plane");
-  std::srand(static_cast<unsigned>(std::time(nullptr)));
 
   const int MAX_CIRCLES = 10;
   const int MIN_RADIUS = 10;
