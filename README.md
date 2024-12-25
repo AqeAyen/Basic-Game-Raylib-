@@ -12,4 +12,5 @@ This is my very first raylib game
 git clone https://github.com/AqeAyen/Basic-Game-Raylib-.git
 ```
 - then go to the clone directory
-- type ```xmake``` to build and ```xmake run``` to run
+- type ```xmake``` to build and ```xmake run``` to run(This is if youre on termux)
+- if youre not in termux you might wanna edit the directories inside the xmake.lua to make this work
